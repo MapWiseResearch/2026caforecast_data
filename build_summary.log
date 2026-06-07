@@ -1,0 +1,13 @@
+Processing 404 dates...
+  [50/404] 2025-06-17
+  [100/404] 2025-08-06
+  [150/404] 2025-09-25
+  [200/404] 2025-11-14
+  [250/404] 2026-01-03
+  [300/404] 2026-02-22
+  [350/404] 2026-04-13
+  [400/404] 2026-06-02
+  [404/404] 2026-06-06
+Writing summary.xlsx...
+Writing race_history_ridings.xlsx...
+Done. summary.xlsx: 404 rows  |  race_history_ridings.xlsx: 138572 rows
