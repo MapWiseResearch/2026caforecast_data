@@ -1,5 +1,6 @@
 .DS_Store
 *.pkl
 ~$*
-output/
-*.xlsx
+source/
+backfill.log
+extract_ridings.log
